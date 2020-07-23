@@ -1,12 +1,6 @@
-## Hi  👋
+## Hi coder ?? 
 
- <img src='https://visitor-badge.glitch.me/badge?page_id=luoyunchong.luoyunchong'/>
+I'm IGeekFan (?????), C# Coder
 
-```
-.___   ________                  __    ___________                
-|   | /  _____/   ____    ____  |  | __\_   _____/_____     ____  
-|   |/   \  ___ _/ __ \ _/ __ \ |  |/ / |    __)  \__  \   /    \ 
-|   |\    \_\  \\  ___/ \  ___/ |    <  |     \    / __ \_|   |  \
-|___| \______  / \___  > \___  >|__|_ \ \___  /   (____  /|___|  /
-             \/      \/      \/      \/     \/         \/      \/ 
-```
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luoyunchong&show_icons=true&theme=radical)
