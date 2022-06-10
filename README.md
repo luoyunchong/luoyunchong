@@ -1,6 +1,6 @@
-# Hello
+## Hello
 
- 👋 你好，我是 `IGeekFan`（天上月），我是一个`c#/ASP.NET Core`开发者，会写一点点`javascript`。
+ 👋 你好，我是 `IGeekFan`（天上月），我是一个`C#/ASP.NET Core`开发者，会写一点点`javascript`。
  
 ![](https://img.shields.io/badge/OS-Win11-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-MAC-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fff5e8)
@@ -41,4 +41,4 @@
 
 微信搜索：dotNET搬砖队
 
-<img class="QR-img" src="https://github.com/luoyunchong/vovo-docs/blob/master/docs/.vuepress/public/images/wechat.png?raw=true">
+<img class="QR-img" src="https://github.com/luoyunchong/vovo-docs/blob/main/docs/.vuepress/public/images/wechat.png?raw=true">
