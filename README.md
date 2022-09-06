@@ -12,16 +12,6 @@
     </a>
 </p>
 
-![](https://img.shields.io/badge/Editor-VisualStudio2022-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=80ccff)
-![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=424a53)
-![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FD8C73)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0969da)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=b6e3ff)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=eac54f)
-![](https://img.shields.io/badge/Tools-AzureDevops-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffddb0)
-![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=f79939)
-![](https://img.shields.io/badge/FrameWork-ASPNETCore-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=d8b9ff)
-
 ### 🍳 推荐项目
 <div align="center">
  <a href="https://github.com/luoyunchong/freekit">
