@@ -1,7 +1,7 @@
-## Hello
+##  Hello
 
- 👋 你好，我是 `IGeekFan`（天上月），我是一个`C#/ASP.NET Core`开发者，会写一点点`javascript`。
- 
+<h3 align="center">Hi 👋, I'm `IGeekFan` (天上月) ,我是一个`C#/ASP.NET Core/JavaScript`开发者</h3>
+
 ![](https://img.shields.io/badge/OS-Win11-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-MAC-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fff5e8)
 ![](https://img.shields.io/badge/Editor-VisualStudio2022-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=80ccff)
@@ -18,27 +18,33 @@
 ![](https://img.shields.io/badge/FrameWork-ASPNETCore-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=d8b9ff)
 ![](https://img.shields.io/badge/FrameWork-ABP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffadda)
 
-## 推荐项目
-<a href="https://github.com/luoyunchong/freekit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luoyunchong&repo=freekit&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/luoyunchong/igeekfan-docs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luoyunchong&repo=igeekfan-docs&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
+### 推荐项目
+<div align="center">
+ <a href="https://github.com/luoyunchong/freekit">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luoyunchong&repo=freekit&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+ </a>
+ <a href="https://github.com/luoyunchong/igeekfan-docs">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luoyunchong&repo=igeekfan-docs&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+ </a>
+</div>
 
-##  联系我 💬
+### About me 💬
 
 - <https://github.com/luoyunchong>
 - <https://www.cnblogs.com/igeekfan>
 - <https://igeekfan.cn>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luoyunchong&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luoyunchong&theme=dark&layout=compact)
+### 📈 Github Statistics
 
+<div align="center">
+    <span>&emsp;&emsp;</span>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=luoyunchong&show_icons=true&theme=radical" />
+    <span>&emsp;&emsp;</span>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoyunchong&theme=dark&layout=compact" />
+    <span>&emsp;&emsp;</span>
+</div>
 
-
-## 欢迎微信关注 dotNET搬砖队
-
-微信搜索：dotNET搬砖队
-
-<img class="QR-img" src="https://github.com/luoyunchong/vovo-docs/blob/main/docs/.vuepress/public/images/wechat.png?raw=true">
+### 🏆欢迎微信搜索：`dotNET搬砖队`
+<div align="center">
+ <img class="QR-img" src="https://github.com/luoyunchong/vovo-docs/blob/main/docs/.vuepress/public/images/wechat.png?raw=true">
+</div>
